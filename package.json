@@ -1,0 +1,13 @@
+{
+  "name": "github-actions-learning-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small, hands-on project for learning GitHub Actions step by step.",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
