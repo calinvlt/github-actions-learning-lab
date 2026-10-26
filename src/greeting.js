@@ -1,5 +1,5 @@
 function greeting(name = "world") {
-  return `Hello, ${name}!`;
+  return `Hi, ${name}!`;
 }
 
 module.exports = { greeting };
